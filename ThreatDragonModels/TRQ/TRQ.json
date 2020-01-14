@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "TRQ",
+    "owner": "Yan Kravchenko",
+    "description": "This is a big program"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Overview",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Kravchenko Yan"
+  }
+}
